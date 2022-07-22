@@ -13,5 +13,9 @@ Commodities <br/>
 ETFs <br/>
 Mutual funds <br/>
 US Treasuries <br/>
-Cryptocurrencies <br/>
+Cryptocurrencies <br/><br/><br/>
 
+
+
+Image credits: Photo by <a href="https://unsplash.com/@jaimie_96?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jaimie Harmsen</a> on <a href="https://unsplash.com/s/photos/yahoo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
