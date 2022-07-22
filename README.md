@@ -1,4 +1,4 @@
-https://github.com/AngelJavierSalazar/yahoo-financial-data-retrieval/issues/1#issue-1314015937
+<img width="820" alt="yahoo" src="https://user-images.githubusercontent.com/32485574/180341742-b929a31c-79ba-418a-8763-0c2458b85aaa.png">
 
 # yahoo-financial-data-retrieval <br/><br/>
 
